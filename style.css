@@ -3,7 +3,7 @@ body{
     blackground: black;
     margin:0px;
 }
-head{
+header{
     border-bottom: solid 2px rgb(42,122,288);
     padding: 20px;
     font-size: 32px;
